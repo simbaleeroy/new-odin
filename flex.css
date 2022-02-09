@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+}
+.one{
+    flex-direction: column-reverse;
+}
+.two{
+    -ms-flex-align: center;
+}
+.three{
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
